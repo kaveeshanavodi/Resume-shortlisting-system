@@ -48,6 +48,24 @@ The system also supports scanned or Canva-based resumes using OCR (Optical Chara
 
 
 
+\## Demo
+
+
+
+\### Program Output
+
+
+
+!\[Terminal Output](screenshots/terminal\_output.png)
+
+
+
+\### Ranked Candidates CSV
+
+
+
+!\[CSV Output](screenshots/output\_csv.png)
+
 
 
 
