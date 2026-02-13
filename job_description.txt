@@ -1,0 +1,47 @@
+Role: Data Analyst 
+
+Type: Full-time
+
+Work Location: Onsite 
+
+Operations Analyst
+
+
+
+Role Overview
+
+As an Operations Analyst, you will be the bridge between our raw data and our daily business decisions. You will use your technical skills to extract data, identify trends, and provide the insights necessary to optimize our operations. This is an entry-level role designed for a curious, detail-oriented individual who wants to see their work have a direct impact on how the company functions.
+
+
+
+Key Responsibilities
+
+Data Extraction & Querying: Write and maintain queries (SQL) to pull data from various internal databases.
+Operational Analysis: Monitor key performance indicators (KPIs) to identify bottlenecks or inefficiencies in our daily operations.
+Reporting & Visualization: Build and update dashboards that make complex data easy for stakeholders to understand.
+Decision Support: Assist senior management by providing data-backed recommendations for process improvements.
+Data Integrity: Perform regular "sanity checks" on data to ensure accuracy and reliability in all reporting.
+
+
+Required Skills & Qualifications
+
+Education: Bachelor’s degree in Business Analytics, Statistics, Computer Science, Engineering, Economics, or a related field.
+Technical Toolkit:
+Data Visualization: Experience with tools like Tableau, Power BI, or Google Looker Studio.
+SQL: Strong knowledge.
+Excel / Google sheet: Proficiency.
+Analytical Mindset: Ability to look at a spreadsheet and see the "story" behind the numbers.
+Communication: Comfortable explaining technical findings to non-technical team members.
+
+
+Preferred Attributes (The "Plus" Factors)
+
+Basic knowledge of Python or R for data manipulation.
+An interest in Digital services & Logistics
+A proactive "self-starter" attitude—someone who asks "why" when they see an anomaly in the data.
+
+
+Why Join Us?
+
+Mentorship from experienced analysts and business leaders.
+Hands-on experience with real-world datasets and high-stakes decision-making.
